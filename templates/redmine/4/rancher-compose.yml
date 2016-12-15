@@ -1,6 +1,7 @@
 .catalog:
   name: redmine
   version: 3.3.0-passenger
+  upgrade_from: <3.3.0
   description: "Redmine Project Manager"
   uuid: redmine-0
   questions:
