@@ -1,6 +1,6 @@
 .catalog:
   name: redmine
-  version: v3.2
+  version: 3.2
   description: "Redmine Project Manager"
   uuid: redmine-0
   questions:
