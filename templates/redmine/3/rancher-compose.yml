@@ -3,6 +3,7 @@
   version: v3.3
   description: "Redmine Project Manager"
   uuid: redmine-0
+  upgrade_from: v3.2
   questions:
     - variable: REDMINE_SECRET_KEY
       label: Redmine Secret Key
