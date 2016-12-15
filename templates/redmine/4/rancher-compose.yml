@@ -2,7 +2,7 @@
   name: redmine
   version: v3.3
   description: "Redmine Project Manager"
-  uuid: redmine-0
+  uuid: redmine-1
   questions:
     - variable: REDMINE_SECRET_KEY
       label: Redmine Secret Key
